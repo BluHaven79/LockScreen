@@ -1,4 +1,7 @@
-
+<script>
+$(document).ready(function(){
+});
+</script>
 
 import React from "react";
 
