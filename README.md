@@ -3,6 +3,5 @@ $(document).ready(function(){
 });
 </script>
 
-import React from "react";
-
-import Lockscreen from "./lockscreen"
+<button class="btn btn-default target"
+id="push">Push</button>
