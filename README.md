@@ -1,2 +1,5 @@
-# LockScreen
-Screen Play
+
+
+import React from "react";
+
+import Lockscreen from "./lockscreen"
