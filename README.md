@@ -1,4 +1,5 @@
 
+
 <script>
 $(document).ready(function(){
 });
@@ -8,3 +9,5 @@ $(document).ready(function(){
 id="push">Push</button>
 
 <h1> You know you want to, so what are you waiting for?</h1>
+
+<h2> will you accept the prize?</h2>
