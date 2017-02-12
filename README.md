@@ -351,7 +351,6 @@ export default class SlideToUnlock extends React.Component {
 
 
     return (
-
       <div
 
         style={{
@@ -361,7 +360,6 @@ export default class SlideToUnlock extends React.Component {
           backgroundColor: "rgba(55, 55, 55, 0.5)",
 
           fontSize: 16,
-
           height: 64,
 
           width: "100%",
@@ -373,7 +371,6 @@ export default class SlideToUnlock extends React.Component {
           justifyContent: "center",
 
           userSelect: "none",
-
         }}
 
       >
@@ -383,7 +380,6 @@ export default class SlideToUnlock extends React.Component {
           ref={(el) => this.arrowHolder = el}
 
           style={{
-
             height: 32,
 
             lineHeight: "32px",
@@ -421,9 +417,7 @@ export default class SlideToUnlock extends React.Component {
   }
 
 }
-Contact GitHub API Training Shop Blog About 
 
-© 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
 import React, { PropTypes } from "react";
 import ClockDisplay from "./ClockDisplay";
